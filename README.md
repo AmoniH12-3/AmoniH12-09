@@ -32,7 +32,7 @@ Driven by data and storytelling. Transitioning from 3 years in PR, where I used 
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,sql,tableau,excel,github,pandas,seaborn" /><br>
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,github,vscode" /><br>
 </div>
 
 <br/>
@@ -47,4 +47,3 @@ Driven by data and storytelling. Transitioning from 3 years in PR, where I used 
 <h2 align="left">📊 Github Stats 📊</h2>
 
 ![Amoni Haynes' GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmoniH12-3&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmoniH12-3&show_icons=true&theme=radical)
