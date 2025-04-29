@@ -41,7 +41,7 @@ Driven by data and storytelling. Transitioning from 3 years in PR, where I used 
     <h2 align="left">💻 Skills 💻</h2>
         <h3>- 📕Technical : R Programming, Excel, Python, SQL, Data Visualization, Data Cleaning, Excel, Tableau</h3>
         <h3>- 📗Soft Skills : Communication, Problem-Solving, Storytelling, Time Management</h3>
-        <h3>- 📙Additional Tools :  Pandas, Seaborn, JupyterLab, Google Analytics, GitHub</h3>
+        <h3>- 📙Additional Tools :  Google Analytics, GitHub</h3>
  </div>
 
 <h2 align="left">📊 Github Stats 📊</h2>
